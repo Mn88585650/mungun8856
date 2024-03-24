@@ -33,7 +33,7 @@ header {
     justify-content: space-between;
     align-items: center;
     height: 100vh;
-    background-image: url("./img/s2img.png");
+    background-image: url("./s2img.png");
     background-size: cover;
   }
 
